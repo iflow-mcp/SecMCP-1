@@ -1,6 +1,6 @@
 {
   "name": "@iflow-mcp/pentestthinking",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A pentest reasoning engine (PentestThinking) that helps break down and analyze attack paths step by step.",
   "type": "module",
   "main": "dist/index.js",
